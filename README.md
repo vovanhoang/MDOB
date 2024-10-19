@@ -15,8 +15,7 @@ In order to validate and evaluate the effectiveness of the REMDABEL method, we u
 From the dataset, we constitute a dataset for testing. The dataset contains two parts: training and testing (600k train, 200k test).
 
 For full access to the source code and datasets, please download them by following the link: 
-https://drive.google.com/drive/folders/1wc7BwyjjEI7c6IBKg5Phv7HRYmLxqpnX?usp=share_link
-
+https://drive.google.com/drive/folders/1arhwdbl90Hemw0wXH44DuphWtzvYGpXA?usp=drive_link
 With the contributions of the authors:
 
 Hoang V. Vo - Department of Information Systems, VNU University of Engineering and Technology, Hanoi 100000, Vietnam
