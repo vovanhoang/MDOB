@@ -20,7 +20,7 @@ With the contributions of the authors:
 
 Hoang V. Vo - Department of Information Systems, VNU University of Engineering and Technology, Hanoi 100000, Vietnam
 
-Phong N.Nguyen - Department of Information Systems, VNU University of Engineering and Technology, Hanoi 100000, Vietnam
+Phong H.Nguyen - Department of Information Systems, VNU University of Engineering and Technology, Hanoi 100000, Vietnam
 
 Hoa N. Nguyen - Corresponding author - hoa.nguyen@vnu.edu.vn - Department of Information Systems, VNU University of Engineering and Technology, Hanoi 100000, Vietnam
 
