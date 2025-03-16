@@ -1,12 +1,12 @@
 
-# REMDABEL: Resilient and Explainable AI-Powered Malware Detection Using Dataset Augmentation and Boosting-Based Ensemble Learning
+# MFODB: Enhancing Resilient and Explainable AI-Powered Malware Detection Using Feature Optimization and Mutual Deep+Boosting Inference
 
 
 Perform an approach that combines a rule-based and ensemble learning model for the intrusion detection system.
 
-For the Manuscript "REMDABEL: Resilient and Explainable AI-Powered Malware Detection Using Dataset Augmentation and Boosting-Based Ensemble Learning"!
+For the Manuscript "MFODB: Enhancing Resilient and Explainable AI-Powered Malware Detection Using Feature Optimization and Mutual Deep+Boosting Inference"!
 
-In order to validate and evaluate the effectiveness of the REMDABEL method, we use EMBER 2018 dataset.
+In order to validate and evaluate the effectiveness of the MFODB method, we use EMBER 2018 dataset.
 
 1. The first dataset (DS1) includes EMBER 2017 & 2018 original dataset. The goal of using this dataset is to verify REMDABEL's ability to detect malware attacks by analyzing the PE file correctly.
 
