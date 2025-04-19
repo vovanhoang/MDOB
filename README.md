@@ -1,12 +1,12 @@
 
-# MFODB: Enhancing Resilient and Explainable AI-Powered Malware Detection Using Feature Optimization and Mutual Deep+Boosting Inference
+# MDOB: Enhancing Resilient and Explainable AI-Powered Malware Detection Using Feature Set Optimization and Mutual Deep+Boosting Ensemble Inference
 
 
-Perform an approach that combines a rule-based and ensemble learning model for the intrusion detection system.
+Perform an approach that applies feature set optimization method and ensemble learning model for the malware detection.
 
-For the Manuscript "MFODB: Enhancing Resilient and Explainable AI-Powered Malware Detection Using Feature Optimization and Mutual Deep+Boosting Inference"!
+For the Manuscript "MDOB: Enhancing Resilient and Explainable AI-Powered Malware Detection Using Feature Set Optimization and Mutual Deep+Boosting Ensemble Inference"!
 
-In order to validate and evaluate the effectiveness of the MFODB method, we use EMBER 2018 dataset.
+In order to validate and evaluate the effectiveness of the MDOB method, we use EMBER 2017 and EMBER 2018 datasets.
 
 1. The first dataset (DS1) includes EMBER 2017 & 2018 original dataset. The goal of using this dataset is to verify MFODB's ability to detect malware attacks by analyzing the PE file correctly.
 
@@ -19,6 +19,8 @@ https://drive.google.com/drive/folders/1arhwdbl90Hemw0wXH44DuphWtzvYGpXA?usp=dri
 With the contributions of the authors:
 
 Hoang V. Vo - Department of Information Systems, VNU University of Engineering and Technology, Hanoi 100000, Vietnam
+
+Han P. Du - Department of Information Systems, VNU University of Engineering and Technology, Hanoi 100000, Vietnam
 
 Hoa N. Nguyen - Corresponding author - hoa.nguyen@vnu.edu.vn - Department of Information Systems, VNU University of Engineering and Technology, Hanoi 100000, Vietnam
 
